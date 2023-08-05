@@ -6,7 +6,7 @@
 )](https://www.hackerrank.com/malheiroschaves)
 
 ![Malheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMalheiros-byte&show_icons=true&theme=tokyonight)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMalheiros-byte)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMalheiros-byte&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias 
 <div style="display: inline_block"><br/>
